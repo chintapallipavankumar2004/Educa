@@ -243,7 +243,8 @@ CORS configured to allow frontend access securely.
 
 🎮 More comfort room mini-games.
 
-📱 Mobile-responsive UI.
+📱 Mobile-responsive UI.<img width="1536" height="1024" alt="a069762d-497c-412b-87ad-6f3f38ea77a1" src="https://github.com/user-attachments/assets/fa2fa59d-aa1a-4cb1-9cb3-65717a233267" />
+
 
 
 
@@ -256,3 +257,10 @@ Full Stack Developer
 React ⚡ Spring Boot ⚡ MySQL
 
 Project built for interview showcase & real-world use case.
+
+
+
+
+
+
+<img width="1536" height="1024" alt="ChatGPT Image Oct 4, 2025, 12_27_43 PM" src="https://github.com/user-attachments/assets/6263dcff-858c-4495-93e4-d2bb9c03ba2f" />
