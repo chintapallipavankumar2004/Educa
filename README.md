@@ -260,7 +260,5 @@ Project built for interview showcase & real-world use case.
 
 
 
+![Architecture](frontend/architecture.png)
 
-
-
-<img width="1536" height="1024" alt="ChatGPT Image Oct 4, 2025, 12_27_43 PM" src="https://github.com/user-attachments/assets/6263dcff-858c-4495-93e4-d2bb9c03ba2f" />
