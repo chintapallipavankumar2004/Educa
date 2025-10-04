@@ -260,5 +260,5 @@ Project built for interview showcase & real-world use case.
 
 
 
-![Architecture](frontend/architecture.png)
+![Architecture](./frontend/architecture.png)
 
