@@ -262,7 +262,10 @@ Project built for interview showcase & real-world use case.
 
 ## 📐 Architecture
 
-![Architecture](./frontend/architecture.png)
+## 📐 Architecture
+
+![Architecture](https://github.com/chintapallipavankumar2004/Educa/blob/main/frontend/architecture.png?raw=true)
+
 
 
 
