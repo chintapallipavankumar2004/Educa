@@ -1,0 +1,9 @@
+.admin-page{padding:20px;max-width:900px;margin:0 auto;color:var(--text-color);}
+.admin-section{background:var(--card-bg);padding:16px;border-radius:8px;margin-bottom:16px;box-shadow:0 1px 3px rgba(0,0,0,0.08)}
+.admin-form{display:flex;flex-direction:column;gap:8px}
+.admin-form input{padding:8px;border-radius:6px;border:1px solid var(--muted);background:var(--input-bg);color:var(--text-color)}
+.admin-form button{padding:8px 12px;border-radius:6px;border:none;background:var(--accent);color:white;cursor:pointer}
+.admin-form button:hover{opacity:0.95}
+.admin-page p{font-size:1.1rem}
+.admin-debug{background:rgba(0,0,0,0.03);padding:12px;border-radius:6px;margin-top:12px;white-space:pre-wrap}
+.admin-section .btn{margin-top:8px}

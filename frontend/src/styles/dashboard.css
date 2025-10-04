@@ -1,0 +1,8 @@
+.dashboard{display:flex;flex-direction:column;min-height:100vh}
+.dashboard-body{display:flex;flex:1;overflow:hidden}
+.dashboard-main{flex:1;padding:2rem 2.5rem;overflow:auto}
+.dashboard-main.full{margin-left:0; width:100%}
+.dashboard-main.with-side{margin-left:0}
+/* Small adjustments */
+@media (max-width:900px){ .sidenav.open{width:180px} }
+@media (max-width:600px){ .sidenav.open{width:150px} }

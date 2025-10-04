@@ -1,0 +1,11 @@
+.video-learning { padding:1.25rem }
+.video-header { display:flex; align-items:center; gap:1rem }
+.back-btn { background:transparent; border:1px solid #ddd; padding:0.4rem 0.6rem; border-radius:6px; cursor:pointer }
+.video-categories { display:grid; grid-template-columns:repeat(3,1fr); gap:1rem; margin-top:1rem }
+.category { background:#fff; padding:1rem; border-radius:10px; box-shadow:0 10px 30px rgba(20,30,40,0.06) }
+.category h3 { margin-top:0 }
+.category ul { margin:0; padding-left:1rem }
+.category ul li { margin:0.5rem 0 }
+.category ul li a { color:#0b66c2; text-decoration:none; padding:0.25rem 0.5rem; display:inline-block; border-radius:6px }
+.category ul li a:hover { background:rgba(11,102,194,0.06) }
+@media (max-width:980px){ .video-categories{ grid-template-columns:1fr } }
